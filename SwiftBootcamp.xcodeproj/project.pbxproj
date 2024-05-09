@@ -11,6 +11,10 @@
 		04AF97E42BECEC7A00142F17 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AF97E32BECEC7A00142F17 /* ContentView.swift */; };
 		04AF97E62BECEC7B00142F17 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04AF97E52BECEC7B00142F17 /* Assets.xcassets */; };
 		04AF97E92BECEC7B00142F17 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04AF97E82BECEC7B00142F17 /* Preview Assets.xcassets */; };
+		04AF97F02BECECA200142F17 /* shapes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AF97EF2BECECA200142F17 /* shapes.swift */; };
+		04AF97F22BECF2BD00142F17 /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AF97F12BECF2BD00142F17 /* Colors.swift */; };
+		04AF97F42BED003000142F17 /* Gradients.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AF97F32BED003000142F17 /* Gradients.swift */; };
+		04AF97F62BED048600142F17 /* Icons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AF97F52BED048600142F17 /* Icons.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +23,10 @@
 		04AF97E32BECEC7A00142F17 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		04AF97E52BECEC7B00142F17 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		04AF97E82BECEC7B00142F17 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		04AF97EF2BECECA200142F17 /* shapes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = shapes.swift; sourceTree = "<group>"; };
+		04AF97F12BECF2BD00142F17 /* Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Colors.swift; sourceTree = "<group>"; };
+		04AF97F32BED003000142F17 /* Gradients.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gradients.swift; sourceTree = "<group>"; };
+		04AF97F52BED048600142F17 /* Icons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Icons.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +61,10 @@
 			children = (
 				04AF97E12BECEC7A00142F17 /* SwiftBootcampApp.swift */,
 				04AF97E32BECEC7A00142F17 /* ContentView.swift */,
+				04AF97F32BED003000142F17 /* Gradients.swift */,
+				04AF97F52BED048600142F17 /* Icons.swift */,
+				04AF97F12BECF2BD00142F17 /* Colors.swift */,
+				04AF97EF2BECECA200142F17 /* shapes.swift */,
 				04AF97E52BECEC7B00142F17 /* Assets.xcassets */,
 				04AF97E72BECEC7B00142F17 /* Preview Content */,
 			);
@@ -137,6 +149,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04AF97F02BECECA200142F17 /* shapes.swift in Sources */,
+				04AF97F42BED003000142F17 /* Gradients.swift in Sources */,
+				04AF97F62BED048600142F17 /* Icons.swift in Sources */,
+				04AF97F22BECF2BD00142F17 /* Colors.swift in Sources */,
 				04AF97E42BECEC7A00142F17 /* ContentView.swift in Sources */,
 				04AF97E22BECEC7A00142F17 /* SwiftBootcampApp.swift in Sources */,
 			);
