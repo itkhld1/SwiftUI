@@ -15,6 +15,7 @@ struct Gradients: View {
                     gradient: Gradient(colors: [Color.red, Color.purple,Color.blue]),
                     startPoint: .topLeading,
                     endPoint: .bottomTrailing)
+                
 //                RadialGradient(gradient: Gradient(colors: [Color.purple, Color.blue]),
 //                               center: .center,
 //                               startRadius: 1,

@@ -23,7 +23,6 @@ struct shapes: View {
 //            .trim(from: 0.2, to: 1.0)
 //            .stroke(style: StrokeStyle(lineWidth: 1, lineCap: .butt, dash: [12]))
 //            .frame(width: 200, height: 100)
-        
 //        Capsule(style: .circular)
         RoundedRectangle(cornerRadius: 100)
             .frame(width: 200, height: 100)
