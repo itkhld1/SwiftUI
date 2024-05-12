@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		047F693D2BED5F3200041D3C /* MyImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047F693C2BED5F3200041D3C /* MyImage.swift */; };
+		048D67722BEF6B7E00FCE799 /* Initializer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 048D67712BEF6B7E00FCE799 /* Initializer.swift */; };
+		048D67742BEF7DD100FCE799 /* ForEach.swift in Sources */ = {isa = PBXBuildFile; fileRef = 048D67732BEF7DD100FCE799 /* ForEach.swift */; };
+		048D67782BEFCD0000FCE799 /* MyScrollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 048D67772BEFCD0000FCE799 /* MyScrollView.swift */; };
 		04AF94092BEE0D1600F7C9CA /* Frames.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AF94082BEE0D1600F7C9CA /* Frames.swift */; };
 		04AF940B2BEE134900F7C9CA /* BackgroundAndOverlay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AF940A2BEE134900F7C9CA /* BackgroundAndOverlay.swift */; };
 		04AF940D2BEE17BA00F7C9CA /* BackgroundAndOverlay#2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AF940C2BEE17BA00F7C9CA /* BackgroundAndOverlay#2.swift */; };
@@ -25,6 +28,9 @@
 
 /* Begin PBXFileReference section */
 		047F693C2BED5F3200041D3C /* MyImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyImage.swift; sourceTree = "<group>"; };
+		048D67712BEF6B7E00FCE799 /* Initializer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Initializer.swift; sourceTree = "<group>"; };
+		048D67732BEF7DD100FCE799 /* ForEach.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEach.swift; sourceTree = "<group>"; };
+		048D67772BEFCD0000FCE799 /* MyScrollView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyScrollView.swift; sourceTree = "<group>"; };
 		04AF94082BEE0D1600F7C9CA /* Frames.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Frames.swift; sourceTree = "<group>"; };
 		04AF940A2BEE134900F7C9CA /* BackgroundAndOverlay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundAndOverlay.swift; sourceTree = "<group>"; };
 		04AF940C2BEE17BA00F7C9CA /* BackgroundAndOverlay#2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BackgroundAndOverlay#2.swift"; sourceTree = "<group>"; };
@@ -76,8 +82,11 @@
 				04AF97F32BED003000142F17 /* Gradients.swift */,
 				04AF97F52BED048600142F17 /* Icons.swift */,
 				04AF940A2BEE134900F7C9CA /* BackgroundAndOverlay.swift */,
+				048D67772BEFCD0000FCE799 /* MyScrollView.swift */,
 				04AF940E2BEE595000F7C9CA /* Stacks.swift */,
 				04AF94122BEE7E5E00F7C9CA /* paddingAndSpacing.swift */,
+				048D67712BEF6B7E00FCE799 /* Initializer.swift */,
+				048D67732BEF7DD100FCE799 /* ForEach.swift */,
 				04AF940C2BEE17BA00F7C9CA /* BackgroundAndOverlay#2.swift */,
 				04AF97F12BECF2BD00142F17 /* Colors.swift */,
 				04AF94082BEE0D1600F7C9CA /* Frames.swift */,
@@ -173,11 +182,14 @@
 				047F693D2BED5F3200041D3C /* MyImage.swift in Sources */,
 				04AF97F42BED003000142F17 /* Gradients.swift in Sources */,
 				04AF97F62BED048600142F17 /* Icons.swift in Sources */,
+				048D67722BEF6B7E00FCE799 /* Initializer.swift in Sources */,
 				04AF97F22BECF2BD00142F17 /* Colors.swift in Sources */,
 				04AF94092BEE0D1600F7C9CA /* Frames.swift in Sources */,
 				04AF97E42BECEC7A00142F17 /* ContentView.swift in Sources */,
+				048D67782BEFCD0000FCE799 /* MyScrollView.swift in Sources */,
 				04AF94132BEE7E5E00F7C9CA /* paddingAndSpacing.swift in Sources */,
 				04AF940B2BEE134900F7C9CA /* BackgroundAndOverlay.swift in Sources */,
+				048D67742BEF7DD100FCE799 /* ForEach.swift in Sources */,
 				04AF97E22BECEC7A00142F17 /* SwiftBootcampApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
