@@ -13,6 +13,9 @@
 		048D67722BEF6B7E00FCE799 /* Initializer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 048D67712BEF6B7E00FCE799 /* Initializer.swift */; };
 		048D67742BEF7DD100FCE799 /* ForEach.swift in Sources */ = {isa = PBXBuildFile; fileRef = 048D67732BEF7DD100FCE799 /* ForEach.swift */; };
 		048D67782BEFCD0000FCE799 /* MyScrollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 048D67772BEFCD0000FCE799 /* MyScrollView.swift */; };
+		04A5BF8B2BF1FF0F00076C67 /* MyButtons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04A5BF8A2BF1FF0F00076C67 /* MyButtons.swift */; };
+		04A5BF8D2BF211A100076C67 /* StatePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04A5BF8C2BF211A100076C67 /* StatePractice.swift */; };
+		04A5BF8F2BF2208900076C67 /* BindingPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04A5BF8E2BF2208900076C67 /* BindingPractice.swift */; };
 		04AF94092BEE0D1600F7C9CA /* Frames.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AF94082BEE0D1600F7C9CA /* Frames.swift */; };
 		04AF940B2BEE134900F7C9CA /* BackgroundAndOverlay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AF940A2BEE134900F7C9CA /* BackgroundAndOverlay.swift */; };
 		04AF940D2BEE17BA00F7C9CA /* BackgroundAndOverlay#2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AF940C2BEE17BA00F7C9CA /* BackgroundAndOverlay#2.swift */; };
@@ -35,6 +38,9 @@
 		048D67712BEF6B7E00FCE799 /* Initializer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Initializer.swift; sourceTree = "<group>"; };
 		048D67732BEF7DD100FCE799 /* ForEach.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEach.swift; sourceTree = "<group>"; };
 		048D67772BEFCD0000FCE799 /* MyScrollView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyScrollView.swift; sourceTree = "<group>"; };
+		04A5BF8A2BF1FF0F00076C67 /* MyButtons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyButtons.swift; sourceTree = "<group>"; };
+		04A5BF8C2BF211A100076C67 /* StatePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatePractice.swift; sourceTree = "<group>"; };
+		04A5BF8E2BF2208900076C67 /* BindingPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingPractice.swift; sourceTree = "<group>"; };
 		04AF94082BEE0D1600F7C9CA /* Frames.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Frames.swift; sourceTree = "<group>"; };
 		04AF940A2BEE134900F7C9CA /* BackgroundAndOverlay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundAndOverlay.swift; sourceTree = "<group>"; };
 		04AF940C2BEE17BA00F7C9CA /* BackgroundAndOverlay#2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BackgroundAndOverlay#2.swift"; sourceTree = "<group>"; };
@@ -90,10 +96,13 @@
 				048D67772BEFCD0000FCE799 /* MyScrollView.swift */,
 				0458376D2BF118A100C32B7F /* SafeeAreaa.swift */,
 				04AF940E2BEE595000F7C9CA /* Stacks.swift */,
+				04A5BF8A2BF1FF0F00076C67 /* MyButtons.swift */,
+				04A5BF8E2BF2208900076C67 /* BindingPractice.swift */,
 				04AF94122BEE7E5E00F7C9CA /* paddingAndSpacing.swift */,
 				048D67712BEF6B7E00FCE799 /* Initializer.swift */,
 				048D67732BEF7DD100FCE799 /* ForEach.swift */,
 				04AF940C2BEE17BA00F7C9CA /* BackgroundAndOverlay#2.swift */,
+				04A5BF8C2BF211A100076C67 /* StatePractice.swift */,
 				04AF97F12BECF2BD00142F17 /* Colors.swift */,
 				04AF94082BEE0D1600F7C9CA /* Frames.swift */,
 				047F693C2BED5F3200041D3C /* MyImage.swift */,
@@ -188,9 +197,12 @@
 				0458376A2BF10B1B00C32B7F /* LazyGrids.swift in Sources */,
 				047F693D2BED5F3200041D3C /* MyImage.swift in Sources */,
 				04AF97F42BED003000142F17 /* Gradients.swift in Sources */,
+				04A5BF8F2BF2208900076C67 /* BindingPractice.swift in Sources */,
 				04AF97F62BED048600142F17 /* Icons.swift in Sources */,
 				048D67722BEF6B7E00FCE799 /* Initializer.swift in Sources */,
 				04AF97F22BECF2BD00142F17 /* Colors.swift in Sources */,
+				04A5BF8B2BF1FF0F00076C67 /* MyButtons.swift in Sources */,
+				04A5BF8D2BF211A100076C67 /* StatePractice.swift in Sources */,
 				04AF94092BEE0D1600F7C9CA /* Frames.swift in Sources */,
 				04AF97E42BECEC7A00142F17 /* ContentView.swift in Sources */,
 				0458376E2BF118A100C32B7F /* SafeeAreaa.swift in Sources */,
