@@ -9,6 +9,9 @@
 /* Begin PBXBuildFile section */
 		0458376A2BF10B1B00C32B7F /* LazyGrids.swift in Sources */ = {isa = PBXBuildFile; fileRef = 045837692BF10B1B00C32B7F /* LazyGrids.swift */; };
 		0458376E2BF118A100C32B7F /* SafeeAreaa.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0458376D2BF118A100C32B7F /* SafeeAreaa.swift */; };
+		0464F2A82BF3A1E70085C29A /* extract.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0464F2A72BF3A1E70085C29A /* extract.swift */; };
+		0464F2AA2BF3A8CF0085C29A /* ExtractSubview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0464F2A92BF3A8CF0085C29A /* ExtractSubview.swift */; };
+		0464F2AE2BF3B3280085C29A /* Conditionals.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0464F2AD2BF3B3280085C29A /* Conditionals.swift */; };
 		047F693D2BED5F3200041D3C /* MyImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047F693C2BED5F3200041D3C /* MyImage.swift */; };
 		048D67722BEF6B7E00FCE799 /* Initializer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 048D67712BEF6B7E00FCE799 /* Initializer.swift */; };
 		048D67742BEF7DD100FCE799 /* ForEach.swift in Sources */ = {isa = PBXBuildFile; fileRef = 048D67732BEF7DD100FCE799 /* ForEach.swift */; };
@@ -34,6 +37,9 @@
 /* Begin PBXFileReference section */
 		045837692BF10B1B00C32B7F /* LazyGrids.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyGrids.swift; sourceTree = "<group>"; };
 		0458376D2BF118A100C32B7F /* SafeeAreaa.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeeAreaa.swift; sourceTree = "<group>"; };
+		0464F2A72BF3A1E70085C29A /* extract.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = extract.swift; sourceTree = "<group>"; };
+		0464F2A92BF3A8CF0085C29A /* ExtractSubview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractSubview.swift; sourceTree = "<group>"; };
+		0464F2AD2BF3B3280085C29A /* Conditionals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Conditionals.swift; sourceTree = "<group>"; };
 		047F693C2BED5F3200041D3C /* MyImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyImage.swift; sourceTree = "<group>"; };
 		048D67712BEF6B7E00FCE799 /* Initializer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Initializer.swift; sourceTree = "<group>"; };
 		048D67732BEF7DD100FCE799 /* ForEach.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEach.swift; sourceTree = "<group>"; };
@@ -90,14 +96,17 @@
 				04AF97E12BECEC7A00142F17 /* SwiftBootcampApp.swift */,
 				04AF97E32BECEC7A00142F17 /* ContentView.swift */,
 				04AF97F32BED003000142F17 /* Gradients.swift */,
+				0464F2A92BF3A8CF0085C29A /* ExtractSubview.swift */,
 				04AF97F52BED048600142F17 /* Icons.swift */,
 				04AF940A2BEE134900F7C9CA /* BackgroundAndOverlay.swift */,
 				045837692BF10B1B00C32B7F /* LazyGrids.swift */,
+				0464F2AD2BF3B3280085C29A /* Conditionals.swift */,
 				048D67772BEFCD0000FCE799 /* MyScrollView.swift */,
 				0458376D2BF118A100C32B7F /* SafeeAreaa.swift */,
 				04AF940E2BEE595000F7C9CA /* Stacks.swift */,
 				04A5BF8A2BF1FF0F00076C67 /* MyButtons.swift */,
 				04A5BF8E2BF2208900076C67 /* BindingPractice.swift */,
+				0464F2A72BF3A1E70085C29A /* extract.swift */,
 				04AF94122BEE7E5E00F7C9CA /* paddingAndSpacing.swift */,
 				048D67712BEF6B7E00FCE799 /* Initializer.swift */,
 				048D67732BEF7DD100FCE799 /* ForEach.swift */,
@@ -195,12 +204,15 @@
 				04AF940D2BEE17BA00F7C9CA /* BackgroundAndOverlay#2.swift in Sources */,
 				04AF940F2BEE595000F7C9CA /* Stacks.swift in Sources */,
 				0458376A2BF10B1B00C32B7F /* LazyGrids.swift in Sources */,
+				0464F2AE2BF3B3280085C29A /* Conditionals.swift in Sources */,
 				047F693D2BED5F3200041D3C /* MyImage.swift in Sources */,
 				04AF97F42BED003000142F17 /* Gradients.swift in Sources */,
 				04A5BF8F2BF2208900076C67 /* BindingPractice.swift in Sources */,
 				04AF97F62BED048600142F17 /* Icons.swift in Sources */,
 				048D67722BEF6B7E00FCE799 /* Initializer.swift in Sources */,
+				0464F2A82BF3A1E70085C29A /* extract.swift in Sources */,
 				04AF97F22BECF2BD00142F17 /* Colors.swift in Sources */,
+				0464F2AA2BF3A8CF0085C29A /* ExtractSubview.swift in Sources */,
 				04A5BF8B2BF1FF0F00076C67 /* MyButtons.swift in Sources */,
 				04A5BF8D2BF211A100076C67 /* StatePractice.swift in Sources */,
 				04AF94092BEE0D1600F7C9CA /* Frames.swift in Sources */,

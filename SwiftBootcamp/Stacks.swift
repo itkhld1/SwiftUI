@@ -8,25 +8,35 @@
 import SwiftUI
 
 struct Stacks: View {
+    
+    @State var backgroundColor: Color = Color.brown
+    
     var body: some View {
-        VStack(spacing: 50){
+        ZStack {
+            backgroundColor
+                .ignoresSafeArea(.all)
             
-            ZStack {
-                Circle()
-                    .frame(width: 100, height: 100)
+            VStack(spacing: 50){
                 
-                Text("1")
-                    .font(.title)
-                    .foregroundColor(.white)
-            }
-            
-            Text("2")
-                .font(.title)
-                .foregroundColor(.white)
-                .background(
+                ZStack {
                     Circle()
                         .frame(width: 100, height: 100)
-                )
+                    
+                    Text("1")
+                        .font(.title)
+                        .foregroundColor(.white)
+                }
+                .shadow(color: .black, radius: 5)
+
+                Text("2")
+                    .font(.title)
+                    .foregroundColor(.white)
+                    .background(
+                        Circle()
+                            .frame(width: 100, height: 100)
+                    )
+                    .shadow(color: .black, radius: 5)
+            }
         }
         
 //        VStack(alignment: .center, spacing: 10) {
