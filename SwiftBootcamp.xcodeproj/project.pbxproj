@@ -19,6 +19,10 @@
 		04A5BF8B2BF1FF0F00076C67 /* MyButtons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04A5BF8A2BF1FF0F00076C67 /* MyButtons.swift */; };
 		04A5BF8D2BF211A100076C67 /* StatePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04A5BF8C2BF211A100076C67 /* StatePractice.swift */; };
 		04A5BF8F2BF2208900076C67 /* BindingPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04A5BF8E2BF2208900076C67 /* BindingPractice.swift */; };
+		04A6F9042BF4CA8E00EC8A96 /* TernaryOperators.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04A6F9032BF4CA8E00EC8A96 /* TernaryOperators.swift */; };
+		04A6F9062BF4CE2000EC8A96 /* AnimationPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04A6F9052BF4CE2000EC8A96 /* AnimationPractice.swift */; };
+		04A6F9082BF4E54700EC8A96 /* AnimationTimingPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04A6F9072BF4E54700EC8A96 /* AnimationTimingPractice.swift */; };
+		04A6F90A2BF4F38D00EC8A96 /* TransitionsPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04A6F9092BF4F38D00EC8A96 /* TransitionsPractice.swift */; };
 		04AF94092BEE0D1600F7C9CA /* Frames.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AF94082BEE0D1600F7C9CA /* Frames.swift */; };
 		04AF940B2BEE134900F7C9CA /* BackgroundAndOverlay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AF940A2BEE134900F7C9CA /* BackgroundAndOverlay.swift */; };
 		04AF940D2BEE17BA00F7C9CA /* BackgroundAndOverlay#2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AF940C2BEE17BA00F7C9CA /* BackgroundAndOverlay#2.swift */; };
@@ -47,6 +51,10 @@
 		04A5BF8A2BF1FF0F00076C67 /* MyButtons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyButtons.swift; sourceTree = "<group>"; };
 		04A5BF8C2BF211A100076C67 /* StatePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatePractice.swift; sourceTree = "<group>"; };
 		04A5BF8E2BF2208900076C67 /* BindingPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingPractice.swift; sourceTree = "<group>"; };
+		04A6F9032BF4CA8E00EC8A96 /* TernaryOperators.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TernaryOperators.swift; sourceTree = "<group>"; };
+		04A6F9052BF4CE2000EC8A96 /* AnimationPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationPractice.swift; sourceTree = "<group>"; };
+		04A6F9072BF4E54700EC8A96 /* AnimationTimingPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationTimingPractice.swift; sourceTree = "<group>"; };
+		04A6F9092BF4F38D00EC8A96 /* TransitionsPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionsPractice.swift; sourceTree = "<group>"; };
 		04AF94082BEE0D1600F7C9CA /* Frames.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Frames.swift; sourceTree = "<group>"; };
 		04AF940A2BEE134900F7C9CA /* BackgroundAndOverlay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundAndOverlay.swift; sourceTree = "<group>"; };
 		04AF940C2BEE17BA00F7C9CA /* BackgroundAndOverlay#2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BackgroundAndOverlay#2.swift"; sourceTree = "<group>"; };
@@ -97,8 +105,12 @@
 				04AF97E32BECEC7A00142F17 /* ContentView.swift */,
 				04AF97F32BED003000142F17 /* Gradients.swift */,
 				0464F2A92BF3A8CF0085C29A /* ExtractSubview.swift */,
+				04A6F9092BF4F38D00EC8A96 /* TransitionsPractice.swift */,
+				04A6F9072BF4E54700EC8A96 /* AnimationTimingPractice.swift */,
 				04AF97F52BED048600142F17 /* Icons.swift */,
 				04AF940A2BEE134900F7C9CA /* BackgroundAndOverlay.swift */,
+				04A6F9032BF4CA8E00EC8A96 /* TernaryOperators.swift */,
+				04A6F9052BF4CE2000EC8A96 /* AnimationPractice.swift */,
 				045837692BF10B1B00C32B7F /* LazyGrids.swift */,
 				0464F2AD2BF3B3280085C29A /* Conditionals.swift */,
 				048D67772BEFCD0000FCE799 /* MyScrollView.swift */,
@@ -205,6 +217,7 @@
 				04AF940F2BEE595000F7C9CA /* Stacks.swift in Sources */,
 				0458376A2BF10B1B00C32B7F /* LazyGrids.swift in Sources */,
 				0464F2AE2BF3B3280085C29A /* Conditionals.swift in Sources */,
+				04A6F9082BF4E54700EC8A96 /* AnimationTimingPractice.swift in Sources */,
 				047F693D2BED5F3200041D3C /* MyImage.swift in Sources */,
 				04AF97F42BED003000142F17 /* Gradients.swift in Sources */,
 				04A5BF8F2BF2208900076C67 /* BindingPractice.swift in Sources */,
@@ -220,8 +233,11 @@
 				0458376E2BF118A100C32B7F /* SafeeAreaa.swift in Sources */,
 				048D67782BEFCD0000FCE799 /* MyScrollView.swift in Sources */,
 				04AF94132BEE7E5E00F7C9CA /* paddingAndSpacing.swift in Sources */,
+				04A6F90A2BF4F38D00EC8A96 /* TransitionsPractice.swift in Sources */,
 				04AF940B2BEE134900F7C9CA /* BackgroundAndOverlay.swift in Sources */,
+				04A6F9042BF4CA8E00EC8A96 /* TernaryOperators.swift in Sources */,
 				048D67742BEF7DD100FCE799 /* ForEach.swift in Sources */,
+				04A6F9062BF4CE2000EC8A96 /* AnimationPractice.swift in Sources */,
 				04AF97E22BECEC7A00142F17 /* SwiftBootcampApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
