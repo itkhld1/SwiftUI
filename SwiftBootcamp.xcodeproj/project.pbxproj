@@ -12,6 +12,9 @@
 		0464F2A82BF3A1E70085C29A /* extract.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0464F2A72BF3A1E70085C29A /* extract.swift */; };
 		0464F2AA2BF3A8CF0085C29A /* ExtractSubview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0464F2A92BF3A8CF0085C29A /* ExtractSubview.swift */; };
 		0464F2AE2BF3B3280085C29A /* Conditionals.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0464F2AD2BF3B3280085C29A /* Conditionals.swift */; };
+		047250012BF626C100680D7C /* SheetsPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047250002BF626C100680D7C /* SheetsPractice.swift */; };
+		047250032BF6357700680D7C /* PopoverPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047250022BF6357700680D7C /* PopoverPractice.swift */; };
+		047250052BF63B6200680D7C /* NavigationViewPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047250042BF63B6200680D7C /* NavigationViewPractice.swift */; };
 		047F693D2BED5F3200041D3C /* MyImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047F693C2BED5F3200041D3C /* MyImage.swift */; };
 		048D67722BEF6B7E00FCE799 /* Initializer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 048D67712BEF6B7E00FCE799 /* Initializer.swift */; };
 		048D67742BEF7DD100FCE799 /* ForEach.swift in Sources */ = {isa = PBXBuildFile; fileRef = 048D67732BEF7DD100FCE799 /* ForEach.swift */; };
@@ -44,6 +47,9 @@
 		0464F2A72BF3A1E70085C29A /* extract.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = extract.swift; sourceTree = "<group>"; };
 		0464F2A92BF3A8CF0085C29A /* ExtractSubview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractSubview.swift; sourceTree = "<group>"; };
 		0464F2AD2BF3B3280085C29A /* Conditionals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Conditionals.swift; sourceTree = "<group>"; };
+		047250002BF626C100680D7C /* SheetsPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsPractice.swift; sourceTree = "<group>"; };
+		047250022BF6357700680D7C /* PopoverPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopoverPractice.swift; sourceTree = "<group>"; };
+		047250042BF63B6200680D7C /* NavigationViewPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewPractice.swift; sourceTree = "<group>"; };
 		047F693C2BED5F3200041D3C /* MyImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyImage.swift; sourceTree = "<group>"; };
 		048D67712BEF6B7E00FCE799 /* Initializer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Initializer.swift; sourceTree = "<group>"; };
 		048D67732BEF7DD100FCE799 /* ForEach.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEach.swift; sourceTree = "<group>"; };
@@ -109,7 +115,10 @@
 				04A6F9072BF4E54700EC8A96 /* AnimationTimingPractice.swift */,
 				04AF97F52BED048600142F17 /* Icons.swift */,
 				04AF940A2BEE134900F7C9CA /* BackgroundAndOverlay.swift */,
+				047250002BF626C100680D7C /* SheetsPractice.swift */,
 				04A6F9032BF4CA8E00EC8A96 /* TernaryOperators.swift */,
+				047250022BF6357700680D7C /* PopoverPractice.swift */,
+				047250042BF63B6200680D7C /* NavigationViewPractice.swift */,
 				04A6F9052BF4CE2000EC8A96 /* AnimationPractice.swift */,
 				045837692BF10B1B00C32B7F /* LazyGrids.swift */,
 				0464F2AD2BF3B3280085C29A /* Conditionals.swift */,
@@ -225,7 +234,10 @@
 				048D67722BEF6B7E00FCE799 /* Initializer.swift in Sources */,
 				0464F2A82BF3A1E70085C29A /* extract.swift in Sources */,
 				04AF97F22BECF2BD00142F17 /* Colors.swift in Sources */,
+				047250052BF63B6200680D7C /* NavigationViewPractice.swift in Sources */,
 				0464F2AA2BF3A8CF0085C29A /* ExtractSubview.swift in Sources */,
+				047250032BF6357700680D7C /* PopoverPractice.swift in Sources */,
+				047250012BF626C100680D7C /* SheetsPractice.swift in Sources */,
 				04A5BF8B2BF1FF0F00076C67 /* MyButtons.swift in Sources */,
 				04A5BF8D2BF211A100076C67 /* StatePractice.swift in Sources */,
 				04AF94092BEE0D1600F7C9CA /* Frames.swift in Sources */,
