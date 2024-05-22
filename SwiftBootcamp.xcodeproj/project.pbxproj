@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		042896E72BFCB0A0007FF20E /* alertPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 042896E62BFCB0A0007FF20E /* alertPractice.swift */; };
+		042896E92BFCBD80007FF20E /* ActionSheetPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 042896E82BFCBD80007FF20E /* ActionSheetPractice.swift */; };
 		0458376A2BF10B1B00C32B7F /* LazyGrids.swift in Sources */ = {isa = PBXBuildFile; fileRef = 045837692BF10B1B00C32B7F /* LazyGrids.swift */; };
 		0458376E2BF118A100C32B7F /* SafeeAreaa.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0458376D2BF118A100C32B7F /* SafeeAreaa.swift */; };
 		0464F2A82BF3A1E70085C29A /* extract.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0464F2A72BF3A1E70085C29A /* extract.swift */; };
@@ -39,10 +41,11 @@
 		04AF97F22BECF2BD00142F17 /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AF97F12BECF2BD00142F17 /* Colors.swift */; };
 		04AF97F42BED003000142F17 /* Gradients.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AF97F32BED003000142F17 /* Gradients.swift */; };
 		04AF97F62BED048600142F17 /* Icons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AF97F52BED048600142F17 /* Icons.swift */; };
-		04D5BE0C2BF79CE800BA839B /* ListPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04D5BE0B2BF79CE800BA839B /* ListPractice.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		042896E62BFCB0A0007FF20E /* alertPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = alertPractice.swift; sourceTree = "<group>"; };
+		042896E82BFCBD80007FF20E /* ActionSheetPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionSheetPractice.swift; sourceTree = "<group>"; };
 		045837692BF10B1B00C32B7F /* LazyGrids.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyGrids.swift; sourceTree = "<group>"; };
 		0458376D2BF118A100C32B7F /* SafeeAreaa.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeeAreaa.swift; sourceTree = "<group>"; };
 		0464F2A72BF3A1E70085C29A /* extract.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = extract.swift; sourceTree = "<group>"; };
@@ -76,7 +79,6 @@
 		04AF97F12BECF2BD00142F17 /* Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Colors.swift; sourceTree = "<group>"; };
 		04AF97F32BED003000142F17 /* Gradients.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gradients.swift; sourceTree = "<group>"; };
 		04AF97F52BED048600142F17 /* Icons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Icons.swift; sourceTree = "<group>"; };
-		04D5BE0B2BF79CE800BA839B /* ListPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListPractice.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,12 +116,13 @@
 				04AF97F32BED003000142F17 /* Gradients.swift */,
 				0464F2A92BF3A8CF0085C29A /* ExtractSubview.swift */,
 				04A6F9092BF4F38D00EC8A96 /* TransitionsPractice.swift */,
-				04D5BE0B2BF79CE800BA839B /* ListPractice.swift */,
 				04A6F9072BF4E54700EC8A96 /* AnimationTimingPractice.swift */,
 				04AF97F52BED048600142F17 /* Icons.swift */,
+				042896E62BFCB0A0007FF20E /* alertPractice.swift */,
 				04AF940A2BEE134900F7C9CA /* BackgroundAndOverlay.swift */,
 				047250002BF626C100680D7C /* SheetsPractice.swift */,
 				04A6F9032BF4CA8E00EC8A96 /* TernaryOperators.swift */,
+				042896E82BFCBD80007FF20E /* ActionSheetPractice.swift */,
 				047250022BF6357700680D7C /* PopoverPractice.swift */,
 				047250042BF63B6200680D7C /* NavigationViewPractice.swift */,
 				04A6F9052BF4CE2000EC8A96 /* AnimationPractice.swift */,
@@ -245,8 +248,8 @@
 				04A5BF8D2BF211A100076C67 /* StatePractice.swift in Sources */,
 				04AF94092BEE0D1600F7C9CA /* Frames.swift in Sources */,
 				04AF97E42BECEC7A00142F17 /* ContentView.swift in Sources */,
-				04D5BE0C2BF79CE800BA839B /* ListPractice.swift in Sources */,
 				0458376E2BF118A100C32B7F /* SafeeAreaa.swift in Sources */,
+				042896E92BFCBD80007FF20E /* ActionSheetPractice.swift in Sources */,
 				048D67782BEFCD0000FCE799 /* MyScrollView.swift in Sources */,
 				04AF94132BEE7E5E00F7C9CA /* paddingAndSpacing.swift in Sources */,
 				04A6F90A2BF4F38D00EC8A96 /* TransitionsPractice.swift in Sources */,
@@ -254,6 +257,7 @@
 				04A6F9042BF4CA8E00EC8A96 /* TernaryOperators.swift in Sources */,
 				048D67742BEF7DD100FCE799 /* ForEach.swift in Sources */,
 				04A6F9062BF4CE2000EC8A96 /* AnimationPractice.swift in Sources */,
+				042896E72BFCB0A0007FF20E /* alertPractice.swift in Sources */,
 				04AF97E22BECEC7A00142F17 /* SwiftBootcampApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
