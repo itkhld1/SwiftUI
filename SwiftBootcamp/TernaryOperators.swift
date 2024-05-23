@@ -22,7 +22,7 @@ struct TernaryOperators: View {
                     .frame(width: 120, height: 34.5)
             )
             
-            Text(isStartingState ? "STARTING" : "ENDING")
+            Text(isStartingState ? "STARTING" : "ENDING") // tirnary operations here
                 .font(.headline)
                 .foregroundColor(.accentColor)
                 .padding()
