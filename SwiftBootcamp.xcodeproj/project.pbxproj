@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		042896E72BFCB0A0007FF20E /* alertPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 042896E62BFCB0A0007FF20E /* alertPractice.swift */; };
 		042896E92BFCBD80007FF20E /* ActionSheetPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 042896E82BFCBD80007FF20E /* ActionSheetPractice.swift */; };
+		0441300D2BFF816500BBBCCB /* ContextMenuPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0441300C2BFF816500BBBCCB /* ContextMenuPractice.swift */; };
 		0458376A2BF10B1B00C32B7F /* LazyGrids.swift in Sources */ = {isa = PBXBuildFile; fileRef = 045837692BF10B1B00C32B7F /* LazyGrids.swift */; };
 		0458376E2BF118A100C32B7F /* SafeeAreaa.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0458376D2BF118A100C32B7F /* SafeeAreaa.swift */; };
 		0464F2A82BF3A1E70085C29A /* extract.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0464F2A72BF3A1E70085C29A /* extract.swift */; };
@@ -46,6 +47,7 @@
 /* Begin PBXFileReference section */
 		042896E62BFCB0A0007FF20E /* alertPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = alertPractice.swift; sourceTree = "<group>"; };
 		042896E82BFCBD80007FF20E /* ActionSheetPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionSheetPractice.swift; sourceTree = "<group>"; };
+		0441300C2BFF816500BBBCCB /* ContextMenuPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContextMenuPractice.swift; sourceTree = "<group>"; };
 		045837692BF10B1B00C32B7F /* LazyGrids.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyGrids.swift; sourceTree = "<group>"; };
 		0458376D2BF118A100C32B7F /* SafeeAreaa.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeeAreaa.swift; sourceTree = "<group>"; };
 		0464F2A72BF3A1E70085C29A /* extract.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = extract.swift; sourceTree = "<group>"; };
@@ -119,6 +121,7 @@
 				04A6F9072BF4E54700EC8A96 /* AnimationTimingPractice.swift */,
 				04AF97F52BED048600142F17 /* Icons.swift */,
 				042896E62BFCB0A0007FF20E /* alertPractice.swift */,
+				0441300C2BFF816500BBBCCB /* ContextMenuPractice.swift */,
 				04AF940A2BEE134900F7C9CA /* BackgroundAndOverlay.swift */,
 				047250002BF626C100680D7C /* SheetsPractice.swift */,
 				04A6F9032BF4CA8E00EC8A96 /* TernaryOperators.swift */,
@@ -237,6 +240,7 @@
 				04AF97F42BED003000142F17 /* Gradients.swift in Sources */,
 				04A5BF8F2BF2208900076C67 /* BindingPractice.swift in Sources */,
 				04AF97F62BED048600142F17 /* Icons.swift in Sources */,
+				0441300D2BFF816500BBBCCB /* ContextMenuPractice.swift in Sources */,
 				048D67722BEF6B7E00FCE799 /* Initializer.swift in Sources */,
 				0464F2A82BF3A1E70085C29A /* extract.swift in Sources */,
 				04AF97F22BECF2BD00142F17 /* Colors.swift in Sources */,
