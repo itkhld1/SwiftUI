@@ -57,7 +57,6 @@ struct SheetsPractice: View {
 
 struct screen2: View {
     
-    //@Environment(\.presentationMode) var presentationMode
     @Environment(\.presentationMode) var presentationMode
     
     var body: some View {
