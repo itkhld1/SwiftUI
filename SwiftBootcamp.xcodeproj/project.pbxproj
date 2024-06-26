@@ -7,8 +7,19 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0410AF2A2C287F010003F8A8 /* EnvironmentViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0410AF292C287F010003F8A8 /* EnvironmentViewModel.swift */; };
+		0410AF2C2C28823A0003F8A8 /* AsyncImagePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0410AF2B2C28823A0003F8A8 /* AsyncImagePractice.swift */; };
+		0410AF2E2C2888170003F8A8 /* BackgroundMaterialsPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0410AF2D2C2888170003F8A8 /* BackgroundMaterialsPractice.swift */; };
+		041B46992C21F23500662C04 /* TabViewPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 041B46982C21F23500662C04 /* TabViewPractice.swift */; };
+		041B469B2C2207A000662C04 /* DarkModePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 041B469A2C2207A000662C04 /* DarkModePractice.swift */; };
+		041E10E32C22EEEC002524B9 /* OnAppierPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 041E10E22C22EEEC002524B9 /* OnAppierPractice.swift */; };
+		041E10E52C22F69F002524B9 /* IfLetGuardPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 041E10E42C22F69F002524B9 /* IfLetGuardPractice.swift */; };
+		041E10E72C2303C1002524B9 /* TabGesturePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 041E10E62C2303C1002524B9 /* TabGesturePractice.swift */; };
+		041E10E92C231DED002524B9 /* ModelPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 041E10E82C231DED002524B9 /* ModelPractice.swift */; };
 		042896E72BFCB0A0007FF20E /* alertPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 042896E62BFCB0A0007FF20E /* alertPractice.swift */; };
 		042896E92BFCBD80007FF20E /* ActionSheetPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 042896E82BFCBD80007FF20E /* ActionSheetPractice.swift */; };
+		04350DA02C1AF0E5009526B7 /* TextFieldPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04350D9F2C1AF0E5009526B7 /* TextFieldPractice.swift */; };
+		04350DA22C1B046C009526B7 /* TextEditorPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04350DA12C1B046C009526B7 /* TextEditorPractice.swift */; };
 		0441300D2BFF816500BBBCCB /* ContextMenuPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0441300C2BFF816500BBBCCB /* ContextMenuPractice.swift */; };
 		0458376A2BF10B1B00C32B7F /* LazyGrids.swift in Sources */ = {isa = PBXBuildFile; fileRef = 045837692BF10B1B00C32B7F /* LazyGrids.swift */; };
 		0458376E2BF118A100C32B7F /* SafeeAreaa.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0458376D2BF118A100C32B7F /* SafeeAreaa.swift */; };
@@ -42,11 +53,28 @@
 		04AF97F22BECF2BD00142F17 /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AF97F12BECF2BD00142F17 /* Colors.swift */; };
 		04AF97F42BED003000142F17 /* Gradients.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AF97F32BED003000142F17 /* Gradients.swift */; };
 		04AF97F62BED048600142F17 /* Icons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AF97F52BED048600142F17 /* Icons.swift */; };
+		04B559752C25854A00614C12 /* ViewModelPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B559742C25854A00614C12 /* ViewModelPractice.swift */; };
+		04C493EC2C1EDF35002F8D64 /* DatePackerPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C493EB2C1EDF35002F8D64 /* DatePackerPractice.swift */; };
+		04C493EE2C1EE68D002F8D64 /* stepperPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C493ED2C1EE68D002F8D64 /* stepperPractice.swift */; };
+		04C493F02C1EEB9B002F8D64 /* SliderPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C493EF2C1EEB9B002F8D64 /* SliderPractice.swift */; };
+		04E4BE542C1C67C70034A06F /* TogglePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04E4BE532C1C67C70034A06F /* TogglePractice.swift */; };
+		04E4BE562C1C6ADB0034A06F /* PickerPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04E4BE552C1C6ADB0034A06F /* PickerPractice.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0410AF292C287F010003F8A8 /* EnvironmentViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnvironmentViewModel.swift; sourceTree = "<group>"; };
+		0410AF2B2C28823A0003F8A8 /* AsyncImagePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncImagePractice.swift; sourceTree = "<group>"; };
+		0410AF2D2C2888170003F8A8 /* BackgroundMaterialsPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundMaterialsPractice.swift; sourceTree = "<group>"; };
+		041B46982C21F23500662C04 /* TabViewPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewPractice.swift; sourceTree = "<group>"; };
+		041B469A2C2207A000662C04 /* DarkModePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkModePractice.swift; sourceTree = "<group>"; };
+		041E10E22C22EEEC002524B9 /* OnAppierPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnAppierPractice.swift; sourceTree = "<group>"; };
+		041E10E42C22F69F002524B9 /* IfLetGuardPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IfLetGuardPractice.swift; sourceTree = "<group>"; };
+		041E10E62C2303C1002524B9 /* TabGesturePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabGesturePractice.swift; sourceTree = "<group>"; };
+		041E10E82C231DED002524B9 /* ModelPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelPractice.swift; sourceTree = "<group>"; };
 		042896E62BFCB0A0007FF20E /* alertPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = alertPractice.swift; sourceTree = "<group>"; };
 		042896E82BFCBD80007FF20E /* ActionSheetPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionSheetPractice.swift; sourceTree = "<group>"; };
+		04350D9F2C1AF0E5009526B7 /* TextFieldPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldPractice.swift; sourceTree = "<group>"; };
+		04350DA12C1B046C009526B7 /* TextEditorPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextEditorPractice.swift; sourceTree = "<group>"; };
 		0441300C2BFF816500BBBCCB /* ContextMenuPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContextMenuPractice.swift; sourceTree = "<group>"; };
 		045837692BF10B1B00C32B7F /* LazyGrids.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyGrids.swift; sourceTree = "<group>"; };
 		0458376D2BF118A100C32B7F /* SafeeAreaa.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeeAreaa.swift; sourceTree = "<group>"; };
@@ -81,6 +109,12 @@
 		04AF97F12BECF2BD00142F17 /* Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Colors.swift; sourceTree = "<group>"; };
 		04AF97F32BED003000142F17 /* Gradients.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gradients.swift; sourceTree = "<group>"; };
 		04AF97F52BED048600142F17 /* Icons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Icons.swift; sourceTree = "<group>"; };
+		04B559742C25854A00614C12 /* ViewModelPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModelPractice.swift; sourceTree = "<group>"; };
+		04C493EB2C1EDF35002F8D64 /* DatePackerPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePackerPractice.swift; sourceTree = "<group>"; };
+		04C493ED2C1EE68D002F8D64 /* stepperPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = stepperPractice.swift; sourceTree = "<group>"; };
+		04C493EF2C1EEB9B002F8D64 /* SliderPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderPractice.swift; sourceTree = "<group>"; };
+		04E4BE532C1C67C70034A06F /* TogglePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TogglePractice.swift; sourceTree = "<group>"; };
+		04E4BE552C1C6ADB0034A06F /* PickerPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerPractice.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,17 +154,34 @@
 				04A6F9092BF4F38D00EC8A96 /* TransitionsPractice.swift */,
 				04A6F9072BF4E54700EC8A96 /* AnimationTimingPractice.swift */,
 				04AF97F52BED048600142F17 /* Icons.swift */,
+				041E10E82C231DED002524B9 /* ModelPractice.swift */,
+				0410AF2D2C2888170003F8A8 /* BackgroundMaterialsPractice.swift */,
+				04E4BE552C1C6ADB0034A06F /* PickerPractice.swift */,
+				04C493EB2C1EDF35002F8D64 /* DatePackerPractice.swift */,
+				041E10E42C22F69F002524B9 /* IfLetGuardPractice.swift */,
+				041E10E22C22EEEC002524B9 /* OnAppierPractice.swift */,
 				042896E62BFCB0A0007FF20E /* alertPractice.swift */,
+				04B559742C25854A00614C12 /* ViewModelPractice.swift */,
+				0410AF292C287F010003F8A8 /* EnvironmentViewModel.swift */,
+				0410AF2B2C28823A0003F8A8 /* AsyncImagePractice.swift */,
 				0441300C2BFF816500BBBCCB /* ContextMenuPractice.swift */,
+				04C493ED2C1EE68D002F8D64 /* stepperPractice.swift */,
+				041B46982C21F23500662C04 /* TabViewPractice.swift */,
+				041E10E62C2303C1002524B9 /* TabGesturePractice.swift */,
+				04C493EF2C1EEB9B002F8D64 /* SliderPractice.swift */,
 				04AF940A2BEE134900F7C9CA /* BackgroundAndOverlay.swift */,
+				04350DA12C1B046C009526B7 /* TextEditorPractice.swift */,
+				041B469A2C2207A000662C04 /* DarkModePractice.swift */,
 				047250002BF626C100680D7C /* SheetsPractice.swift */,
 				04A6F9032BF4CA8E00EC8A96 /* TernaryOperators.swift */,
+				04E4BE532C1C67C70034A06F /* TogglePractice.swift */,
 				042896E82BFCBD80007FF20E /* ActionSheetPractice.swift */,
 				047250022BF6357700680D7C /* PopoverPractice.swift */,
 				047250042BF63B6200680D7C /* NavigationViewPractice.swift */,
 				04A6F9052BF4CE2000EC8A96 /* AnimationPractice.swift */,
 				045837692BF10B1B00C32B7F /* LazyGrids.swift */,
 				0464F2AD2BF3B3280085C29A /* Conditionals.swift */,
+				04350D9F2C1AF0E5009526B7 /* TextFieldPractice.swift */,
 				048D67772BEFCD0000FCE799 /* MyScrollView.swift */,
 				0458376D2BF118A100C32B7F /* SafeeAreaa.swift */,
 				04AF940E2BEE595000F7C9CA /* Stacks.swift */,
@@ -234,6 +285,8 @@
 				04AF940D2BEE17BA00F7C9CA /* BackgroundAndOverlay#2.swift in Sources */,
 				04AF940F2BEE595000F7C9CA /* Stacks.swift in Sources */,
 				0458376A2BF10B1B00C32B7F /* LazyGrids.swift in Sources */,
+				04E4BE542C1C67C70034A06F /* TogglePractice.swift in Sources */,
+				041E10E52C22F69F002524B9 /* IfLetGuardPractice.swift in Sources */,
 				0464F2AE2BF3B3280085C29A /* Conditionals.swift in Sources */,
 				04A6F9082BF4E54700EC8A96 /* AnimationTimingPractice.swift in Sources */,
 				047F693D2BED5F3200041D3C /* MyImage.swift in Sources */,
@@ -242,27 +295,42 @@
 				04AF97F62BED048600142F17 /* Icons.swift in Sources */,
 				0441300D2BFF816500BBBCCB /* ContextMenuPractice.swift in Sources */,
 				048D67722BEF6B7E00FCE799 /* Initializer.swift in Sources */,
+				04C493F02C1EEB9B002F8D64 /* SliderPractice.swift in Sources */,
 				0464F2A82BF3A1E70085C29A /* extract.swift in Sources */,
+				041B469B2C2207A000662C04 /* DarkModePractice.swift in Sources */,
 				04AF97F22BECF2BD00142F17 /* Colors.swift in Sources */,
 				047250052BF63B6200680D7C /* NavigationViewPractice.swift in Sources */,
 				0464F2AA2BF3A8CF0085C29A /* ExtractSubview.swift in Sources */,
+				0410AF2C2C28823A0003F8A8 /* AsyncImagePractice.swift in Sources */,
 				047250032BF6357700680D7C /* PopoverPractice.swift in Sources */,
+				04C493EC2C1EDF35002F8D64 /* DatePackerPractice.swift in Sources */,
 				047250012BF626C100680D7C /* SheetsPractice.swift in Sources */,
 				04A5BF8B2BF1FF0F00076C67 /* MyButtons.swift in Sources */,
+				04B559752C25854A00614C12 /* ViewModelPractice.swift in Sources */,
 				04A5BF8D2BF211A100076C67 /* StatePractice.swift in Sources */,
 				04AF94092BEE0D1600F7C9CA /* Frames.swift in Sources */,
 				04AF97E42BECEC7A00142F17 /* ContentView.swift in Sources */,
 				0458376E2BF118A100C32B7F /* SafeeAreaa.swift in Sources */,
+				04C493EE2C1EE68D002F8D64 /* stepperPractice.swift in Sources */,
+				0410AF2E2C2888170003F8A8 /* BackgroundMaterialsPractice.swift in Sources */,
 				042896E92BFCBD80007FF20E /* ActionSheetPractice.swift in Sources */,
+				04350DA02C1AF0E5009526B7 /* TextFieldPractice.swift in Sources */,
+				04E4BE562C1C6ADB0034A06F /* PickerPractice.swift in Sources */,
+				041E10E92C231DED002524B9 /* ModelPractice.swift in Sources */,
 				048D67782BEFCD0000FCE799 /* MyScrollView.swift in Sources */,
 				04AF94132BEE7E5E00F7C9CA /* paddingAndSpacing.swift in Sources */,
 				04A6F90A2BF4F38D00EC8A96 /* TransitionsPractice.swift in Sources */,
+				04350DA22C1B046C009526B7 /* TextEditorPractice.swift in Sources */,
+				0410AF2A2C287F010003F8A8 /* EnvironmentViewModel.swift in Sources */,
+				041E10E32C22EEEC002524B9 /* OnAppierPractice.swift in Sources */,
 				04AF940B2BEE134900F7C9CA /* BackgroundAndOverlay.swift in Sources */,
 				04A6F9042BF4CA8E00EC8A96 /* TernaryOperators.swift in Sources */,
 				048D67742BEF7DD100FCE799 /* ForEach.swift in Sources */,
 				04A6F9062BF4CE2000EC8A96 /* AnimationPractice.swift in Sources */,
+				041E10E72C2303C1002524B9 /* TabGesturePractice.swift in Sources */,
 				042896E72BFCB0A0007FF20E /* alertPractice.swift in Sources */,
 				04AF97E22BECEC7A00142F17 /* SwiftBootcampApp.swift in Sources */,
+				041B46992C21F23500662C04 /* TabViewPractice.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
