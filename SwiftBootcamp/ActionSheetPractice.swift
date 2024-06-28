@@ -18,50 +18,69 @@ struct ActionSheetPractice: View {
     }
     
     var body: some View {
-        
         VStack {
             HStack {
-                ZStack {
-                    Image("itkhld2")
-                        .resizable()
-                        .aspectRatio(contentMode: .fill)
-                        .frame(width: 40, height: 40)
-                        .clipShape(Circle())
-                }
+                Text("For you")
+                    .font(.title)
+                    .bold()
+                Image(systemName: "chevron.down")
+                Spacer()
+                
+                Image(systemName: "heart")
+                    .font(.title)
+                Image(systemName: "message.badge")
+                    .font(.system(size: 25))
+            }
+            .padding()
+            
+            VStack {
+                HStack {
+                    ZStack {
+                        Image("itkhld2")
+                            .resizable()
+                            .aspectRatio(contentMode: .fill)
+                            .frame(width: 40, height: 40)
+                            .clipShape(Circle())
+                    }
+                    Text("Itkhld")
+                    Image(systemName: "checkmark.seal.fill")
+                        .foregroundColor(.blue)
+                        .font(.callout)
+                    Spacer()
                     
+                    Button(action: {
+                        actionshetOption = .isMyPost
+                        showActionSheet.toggle()
+                    }, label: {
+                        Image(systemName: "ellipsis")
+                    })
+                    .accentColor(.primary)
+                }
+                .padding(.horizontal)
                 
-                Text("Itkhld")
-                Spacer()
+                ZStack{ 
+                    Image("itkhld")
+                        .resizable()
+                        .aspectRatio(contentMode: .fit)
+                }
+                .cornerRadius(4)
+                .padding(.horizontal,1)
                 
-                Button(action: {
-                    actionshetOption = .isMyPost
-                    showActionSheet.toggle()
-                }, label: {
-                    Image(systemName: "ellipsis")
-                })
-                .accentColor(.primary)
+                
+                HStack(spacing: 20.0) {
+                    Image(systemName: "heart")
+                        .font(.title)
+                    Image(systemName: "message")
+                    Image(systemName: "paperplane")
+                    Spacer()
+                    Image(systemName: "square.and.arrow.down")
+                }
+                .font(.system(size: 25))
+                .padding(.horizontal, 10)
+                .padding(.vertical, 10)
             }
-            .padding(.horizontal)
-            
-            ZStack{ 
-                Image("itkhld")
-                    .resizable()
-                    .aspectRatio(contentMode: .fit)
-            }
-            
-            HStack {
-                Image(systemName: "heart.fill")
-                    .foregroundColor(.red)
-                    .padding(.horizontal, 5)
-                Image(systemName: "message")
-                    .padding(.horizontal, 2)
-                Image(systemName: "paperplane.fill").padding(.horizontal,2)
-                Spacer()
-                Image(systemName: "square.and.arrow.down")
-            }
-            .font(.title2)
+            .actionSheet(isPresented: $showActionSheet, content: getActionSheet)
         }
-        .actionSheet(isPresented: $showActionSheet, content: getActionSheet)
     }
     
     
@@ -109,4 +128,5 @@ struct ActionSheetPractice: View {
 
 #Preview {
     ActionSheetPractice()
+        .preferredColorScheme(.light)
 }
