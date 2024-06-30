@@ -10,6 +10,15 @@
 		0410AF2A2C287F010003F8A8 /* EnvironmentViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0410AF292C287F010003F8A8 /* EnvironmentViewModel.swift */; };
 		0410AF2C2C28823A0003F8A8 /* AsyncImagePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0410AF2B2C28823A0003F8A8 /* AsyncImagePractice.swift */; };
 		0410AF2E2C2888170003F8A8 /* BackgroundMaterialsPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0410AF2D2C2888170003F8A8 /* BackgroundMaterialsPractice.swift */; };
+		041193A22C2EC213007BDD50 /* TextSelectionPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 041193A12C2EC213007BDD50 /* TextSelectionPractice.swift */; };
+		041193A42C2EC2E6007BDD50 /* ButtonStylePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 041193A32C2EC2E6007BDD50 /* ButtonStylePractice.swift */; };
+		041193A62C2ECD5F007BDD50 /* ListSwapActionPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 041193A52C2ECD5F007BDD50 /* ListSwapActionPractice.swift */; };
+		041193A82C2ED15F007BDD50 /* BadgesPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 041193A72C2ED15F007BDD50 /* BadgesPractice.swift */; };
+		041193AA2C2ED6B9007BDD50 /* FocusStatePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 041193A92C2ED6B9007BDD50 /* FocusStatePractice.swift */; };
+		041193AC2C2EE864007BDD50 /* SubmitTextFieldPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 041193AB2C2EE864007BDD50 /* SubmitTextFieldPractice.swift */; };
+		041193AE2C2EEBC2007BDD50 /* NavigationStackPractive.swift in Sources */ = {isa = PBXBuildFile; fileRef = 041193AD2C2EEBC2007BDD50 /* NavigationStackPractive.swift */; };
+		041193B02C2EF485007BDD50 /* ToolBarPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 041193AF2C2EF485007BDD50 /* ToolBarPractice.swift */; };
+		041193B42C2F0864007BDD50 /* CheckboxView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 041193B32C2F0864007BDD50 /* CheckboxView.swift */; };
 		041B46992C21F23500662C04 /* TabViewPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 041B46982C21F23500662C04 /* TabViewPractice.swift */; };
 		041B469B2C2207A000662C04 /* DarkModePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 041B469A2C2207A000662C04 /* DarkModePractice.swift */; };
 		041E10E32C22EEEC002524B9 /* OnAppierPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 041E10E22C22EEEC002524B9 /* OnAppierPractice.swift */; };
@@ -29,6 +38,7 @@
 		047250012BF626C100680D7C /* SheetsPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047250002BF626C100680D7C /* SheetsPractice.swift */; };
 		047250032BF6357700680D7C /* PopoverPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047250022BF6357700680D7C /* PopoverPractice.swift */; };
 		047250052BF63B6200680D7C /* NavigationViewPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047250042BF63B6200680D7C /* NavigationViewPractice.swift */; };
+		04778B4D2C3165DC006FE23A /* ResizableSheetPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04778B4C2C3165DC006FE23A /* ResizableSheetPractice.swift */; };
 		047F693D2BED5F3200041D3C /* MyImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047F693C2BED5F3200041D3C /* MyImage.swift */; };
 		048D67722BEF6B7E00FCE799 /* Initializer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 048D67712BEF6B7E00FCE799 /* Initializer.swift */; };
 		048D67742BEF7DD100FCE799 /* ForEach.swift in Sources */ = {isa = PBXBuildFile; fileRef = 048D67732BEF7DD100FCE799 /* ForEach.swift */; };
@@ -65,6 +75,15 @@
 		0410AF292C287F010003F8A8 /* EnvironmentViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnvironmentViewModel.swift; sourceTree = "<group>"; };
 		0410AF2B2C28823A0003F8A8 /* AsyncImagePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncImagePractice.swift; sourceTree = "<group>"; };
 		0410AF2D2C2888170003F8A8 /* BackgroundMaterialsPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundMaterialsPractice.swift; sourceTree = "<group>"; };
+		041193A12C2EC213007BDD50 /* TextSelectionPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextSelectionPractice.swift; sourceTree = "<group>"; };
+		041193A32C2EC2E6007BDD50 /* ButtonStylePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonStylePractice.swift; sourceTree = "<group>"; };
+		041193A52C2ECD5F007BDD50 /* ListSwapActionPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListSwapActionPractice.swift; sourceTree = "<group>"; };
+		041193A72C2ED15F007BDD50 /* BadgesPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgesPractice.swift; sourceTree = "<group>"; };
+		041193A92C2ED6B9007BDD50 /* FocusStatePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FocusStatePractice.swift; sourceTree = "<group>"; };
+		041193AB2C2EE864007BDD50 /* SubmitTextFieldPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubmitTextFieldPractice.swift; sourceTree = "<group>"; };
+		041193AD2C2EEBC2007BDD50 /* NavigationStackPractive.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationStackPractive.swift; sourceTree = "<group>"; };
+		041193AF2C2EF485007BDD50 /* ToolBarPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToolBarPractice.swift; sourceTree = "<group>"; };
+		041193B32C2F0864007BDD50 /* CheckboxView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckboxView.swift; sourceTree = "<group>"; };
 		041B46982C21F23500662C04 /* TabViewPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewPractice.swift; sourceTree = "<group>"; };
 		041B469A2C2207A000662C04 /* DarkModePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkModePractice.swift; sourceTree = "<group>"; };
 		041E10E22C22EEEC002524B9 /* OnAppierPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnAppierPractice.swift; sourceTree = "<group>"; };
@@ -84,6 +103,7 @@
 		047250002BF626C100680D7C /* SheetsPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsPractice.swift; sourceTree = "<group>"; };
 		047250022BF6357700680D7C /* PopoverPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopoverPractice.swift; sourceTree = "<group>"; };
 		047250042BF63B6200680D7C /* NavigationViewPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewPractice.swift; sourceTree = "<group>"; };
+		04778B4C2C3165DC006FE23A /* ResizableSheetPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResizableSheetPractice.swift; sourceTree = "<group>"; };
 		047F693C2BED5F3200041D3C /* MyImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyImage.swift; sourceTree = "<group>"; };
 		048D67712BEF6B7E00FCE799 /* Initializer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Initializer.swift; sourceTree = "<group>"; };
 		048D67732BEF7DD100FCE799 /* ForEach.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEach.swift; sourceTree = "<group>"; };
@@ -154,9 +174,13 @@
 				04A6F9092BF4F38D00EC8A96 /* TransitionsPractice.swift */,
 				04A6F9072BF4E54700EC8A96 /* AnimationTimingPractice.swift */,
 				04AF97F52BED048600142F17 /* Icons.swift */,
+				041193AB2C2EE864007BDD50 /* SubmitTextFieldPractice.swift */,
+				041193AD2C2EEBC2007BDD50 /* NavigationStackPractive.swift */,
 				041E10E82C231DED002524B9 /* ModelPractice.swift */,
+				041193AF2C2EF485007BDD50 /* ToolBarPractice.swift */,
 				0410AF2D2C2888170003F8A8 /* BackgroundMaterialsPractice.swift */,
 				04E4BE552C1C6ADB0034A06F /* PickerPractice.swift */,
+				041193A12C2EC213007BDD50 /* TextSelectionPractice.swift */,
 				04C493EB2C1EDF35002F8D64 /* DatePackerPractice.swift */,
 				041E10E42C22F69F002524B9 /* IfLetGuardPractice.swift */,
 				041E10E22C22EEEC002524B9 /* OnAppierPractice.swift */,
@@ -168,6 +192,8 @@
 				04C493ED2C1EE68D002F8D64 /* stepperPractice.swift */,
 				041B46982C21F23500662C04 /* TabViewPractice.swift */,
 				041E10E62C2303C1002524B9 /* TabGesturePractice.swift */,
+				04778B4C2C3165DC006FE23A /* ResizableSheetPractice.swift */,
+				041193A32C2EC2E6007BDD50 /* ButtonStylePractice.swift */,
 				04C493EF2C1EEB9B002F8D64 /* SliderPractice.swift */,
 				04AF940A2BEE134900F7C9CA /* BackgroundAndOverlay.swift */,
 				04350DA12C1B046C009526B7 /* TextEditorPractice.swift */,
@@ -178,6 +204,9 @@
 				042896E82BFCBD80007FF20E /* ActionSheetPractice.swift */,
 				047250022BF6357700680D7C /* PopoverPractice.swift */,
 				047250042BF63B6200680D7C /* NavigationViewPractice.swift */,
+				041193A52C2ECD5F007BDD50 /* ListSwapActionPractice.swift */,
+				041193A92C2ED6B9007BDD50 /* FocusStatePractice.swift */,
+				041193A72C2ED15F007BDD50 /* BadgesPractice.swift */,
 				04A6F9052BF4CE2000EC8A96 /* AnimationPractice.swift */,
 				045837692BF10B1B00C32B7F /* LazyGrids.swift */,
 				0464F2AD2BF3B3280085C29A /* Conditionals.swift */,
@@ -197,6 +226,7 @@
 				04AF94082BEE0D1600F7C9CA /* Frames.swift */,
 				047F693C2BED5F3200041D3C /* MyImage.swift */,
 				04AF97EF2BECECA200142F17 /* shapes.swift */,
+				041193B32C2F0864007BDD50 /* CheckboxView.swift */,
 				04AF97E52BECEC7B00142F17 /* Assets.xcassets */,
 				04AF97E72BECEC7B00142F17 /* Preview Content */,
 			);
@@ -283,11 +313,13 @@
 			files = (
 				04AF97F02BECECA200142F17 /* shapes.swift in Sources */,
 				04AF940D2BEE17BA00F7C9CA /* BackgroundAndOverlay#2.swift in Sources */,
+				041193A62C2ECD5F007BDD50 /* ListSwapActionPractice.swift in Sources */,
 				04AF940F2BEE595000F7C9CA /* Stacks.swift in Sources */,
 				0458376A2BF10B1B00C32B7F /* LazyGrids.swift in Sources */,
 				04E4BE542C1C67C70034A06F /* TogglePractice.swift in Sources */,
 				041E10E52C22F69F002524B9 /* IfLetGuardPractice.swift in Sources */,
 				0464F2AE2BF3B3280085C29A /* Conditionals.swift in Sources */,
+				041193AE2C2EEBC2007BDD50 /* NavigationStackPractive.swift in Sources */,
 				04A6F9082BF4E54700EC8A96 /* AnimationTimingPractice.swift in Sources */,
 				047F693D2BED5F3200041D3C /* MyImage.swift in Sources */,
 				04AF97F42BED003000142F17 /* Gradients.swift in Sources */,
@@ -295,11 +327,13 @@
 				04AF97F62BED048600142F17 /* Icons.swift in Sources */,
 				0441300D2BFF816500BBBCCB /* ContextMenuPractice.swift in Sources */,
 				048D67722BEF6B7E00FCE799 /* Initializer.swift in Sources */,
+				04778B4D2C3165DC006FE23A /* ResizableSheetPractice.swift in Sources */,
 				04C493F02C1EEB9B002F8D64 /* SliderPractice.swift in Sources */,
 				0464F2A82BF3A1E70085C29A /* extract.swift in Sources */,
 				041B469B2C2207A000662C04 /* DarkModePractice.swift in Sources */,
 				04AF97F22BECF2BD00142F17 /* Colors.swift in Sources */,
 				047250052BF63B6200680D7C /* NavigationViewPractice.swift in Sources */,
+				041193A82C2ED15F007BDD50 /* BadgesPractice.swift in Sources */,
 				0464F2AA2BF3A8CF0085C29A /* ExtractSubview.swift in Sources */,
 				0410AF2C2C28823A0003F8A8 /* AsyncImagePractice.swift in Sources */,
 				047250032BF6357700680D7C /* PopoverPractice.swift in Sources */,
@@ -309,7 +343,11 @@
 				04B559752C25854A00614C12 /* ViewModelPractice.swift in Sources */,
 				04A5BF8D2BF211A100076C67 /* StatePractice.swift in Sources */,
 				04AF94092BEE0D1600F7C9CA /* Frames.swift in Sources */,
+				041193A22C2EC213007BDD50 /* TextSelectionPractice.swift in Sources */,
 				04AF97E42BECEC7A00142F17 /* ContentView.swift in Sources */,
+				041193B42C2F0864007BDD50 /* CheckboxView.swift in Sources */,
+				041193AC2C2EE864007BDD50 /* SubmitTextFieldPractice.swift in Sources */,
+				041193B02C2EF485007BDD50 /* ToolBarPractice.swift in Sources */,
 				0458376E2BF118A100C32B7F /* SafeeAreaa.swift in Sources */,
 				04C493EE2C1EE68D002F8D64 /* stepperPractice.swift in Sources */,
 				0410AF2E2C2888170003F8A8 /* BackgroundMaterialsPractice.swift in Sources */,
@@ -320,7 +358,9 @@
 				048D67782BEFCD0000FCE799 /* MyScrollView.swift in Sources */,
 				04AF94132BEE7E5E00F7C9CA /* paddingAndSpacing.swift in Sources */,
 				04A6F90A2BF4F38D00EC8A96 /* TransitionsPractice.swift in Sources */,
+				041193A42C2EC2E6007BDD50 /* ButtonStylePractice.swift in Sources */,
 				04350DA22C1B046C009526B7 /* TextEditorPractice.swift in Sources */,
+				041193AA2C2ED6B9007BDD50 /* FocusStatePractice.swift in Sources */,
 				0410AF2A2C287F010003F8A8 /* EnvironmentViewModel.swift in Sources */,
 				041E10E32C22EEEC002524B9 /* OnAppierPractice.swift in Sources */,
 				04AF940B2BEE134900F7C9CA /* BackgroundAndOverlay.swift in Sources */,
