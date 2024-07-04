@@ -28,6 +28,7 @@
 		042629582C356961009F45EA /* gridViewPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 042629572C356961009F45EA /* gridViewPractice.swift */; };
 		0426295A2C357054009F45EA /* contentUnAvilableViewPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 042629592C357054009F45EA /* contentUnAvilableViewPractice.swift */; };
 		0426295C2C3578DD009F45EA /* ControlGroupMenuPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0426295B2C3578DD009F45EA /* ControlGroupMenuPractice.swift */; };
+		0426295E2C357F27009F45EA /* MacroPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0426295D2C357F27009F45EA /* MacroPractice.swift */; };
 		042896E72BFCB0A0007FF20E /* alertPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 042896E62BFCB0A0007FF20E /* alertPractice.swift */; };
 		042896E92BFCBD80007FF20E /* ActionSheetPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 042896E82BFCBD80007FF20E /* ActionSheetPractice.swift */; };
 		04350DA02C1AF0E5009526B7 /* TextFieldPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04350D9F2C1AF0E5009526B7 /* TextFieldPractice.swift */; };
@@ -104,6 +105,7 @@
 		042629572C356961009F45EA /* gridViewPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gridViewPractice.swift; sourceTree = "<group>"; };
 		042629592C357054009F45EA /* contentUnAvilableViewPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = contentUnAvilableViewPractice.swift; sourceTree = "<group>"; };
 		0426295B2C3578DD009F45EA /* ControlGroupMenuPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControlGroupMenuPractice.swift; sourceTree = "<group>"; };
+		0426295D2C357F27009F45EA /* MacroPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MacroPractice.swift; sourceTree = "<group>"; };
 		042896E62BFCB0A0007FF20E /* alertPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = alertPractice.swift; sourceTree = "<group>"; };
 		042896E82BFCBD80007FF20E /* ActionSheetPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionSheetPractice.swift; sourceTree = "<group>"; };
 		04350D9F2C1AF0E5009526B7 /* TextFieldPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldPractice.swift; sourceTree = "<group>"; };
@@ -260,6 +262,7 @@
 				042629572C356961009F45EA /* gridViewPractice.swift */,
 				042629592C357054009F45EA /* contentUnAvilableViewPractice.swift */,
 				0426295B2C3578DD009F45EA /* ControlGroupMenuPractice.swift */,
+				0426295D2C357F27009F45EA /* MacroPractice.swift */,
 				04AF97E52BECEC7B00142F17 /* Assets.xcassets */,
 				04AF97E72BECEC7B00142F17 /* Preview Content */,
 			);
@@ -347,6 +350,7 @@
 				04AF97F02BECECA200142F17 /* shapes.swift in Sources */,
 				04AF940D2BEE17BA00F7C9CA /* BackgroundAndOverlay#2.swift in Sources */,
 				041193A62C2ECD5F007BDD50 /* ListSwapActionPractice.swift in Sources */,
+				0426295E2C357F27009F45EA /* MacroPractice.swift in Sources */,
 				04778B5B2C31B0DF006FE23A /* ViewThatFitsPractice.swift in Sources */,
 				04AF940F2BEE595000F7C9CA /* Stacks.swift in Sources */,
 				0458376A2BF10B1B00C32B7F /* LazyGrids.swift in Sources */,
