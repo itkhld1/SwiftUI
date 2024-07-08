@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		040A14D32C3AA0190087AB14 /* MultipleSheetsPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 040A14D22C3AA0190087AB14 /* MultipleSheetsPractice.swift */; };
 		0410AF2A2C287F010003F8A8 /* EnvironmentViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0410AF292C287F010003F8A8 /* EnvironmentViewModel.swift */; };
 		0410AF2C2C28823A0003F8A8 /* AsyncImagePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0410AF2B2C28823A0003F8A8 /* AsyncImagePractice.swift */; };
 		0410AF2E2C2888170003F8A8 /* BackgroundMaterialsPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0410AF2D2C2888170003F8A8 /* BackgroundMaterialsPractice.swift */; };
@@ -54,6 +55,10 @@
 		048D67722BEF6B7E00FCE799 /* Initializer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 048D67712BEF6B7E00FCE799 /* Initializer.swift */; };
 		048D67742BEF7DD100FCE799 /* ForEach.swift in Sources */ = {isa = PBXBuildFile; fileRef = 048D67732BEF7DD100FCE799 /* ForEach.swift */; };
 		048D67782BEFCD0000FCE799 /* MyScrollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 048D67772BEFCD0000FCE799 /* MyScrollView.swift */; };
+		04935ACB2C394ED400864A7F /* LongPressGesturePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04935ACA2C394ED400864A7F /* LongPressGesturePractice.swift */; };
+		04935ACD2C395C0600864A7F /* MagnificationGesturePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04935ACC2C395C0600864A7F /* MagnificationGesturePractice.swift */; };
+		04935ACF2C39741100864A7F /* RotationGesturePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04935ACE2C39741100864A7F /* RotationGesturePractice.swift */; };
+		04935AD12C3978B200864A7F /* ScrollViewReaderPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04935AD02C3978B200864A7F /* ScrollViewReaderPractice.swift */; };
 		04A5BF8B2BF1FF0F00076C67 /* MyButtons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04A5BF8A2BF1FF0F00076C67 /* MyButtons.swift */; };
 		04A5BF8D2BF211A100076C67 /* StatePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04A5BF8C2BF211A100076C67 /* StatePractice.swift */; };
 		04A5BF8F2BF2208900076C67 /* BindingPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04A5BF8E2BF2208900076C67 /* BindingPractice.swift */; };
@@ -84,6 +89,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		040A14D22C3AA0190087AB14 /* MultipleSheetsPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultipleSheetsPractice.swift; sourceTree = "<group>"; };
 		0410AF292C287F010003F8A8 /* EnvironmentViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnvironmentViewModel.swift; sourceTree = "<group>"; };
 		0410AF2B2C28823A0003F8A8 /* AsyncImagePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncImagePractice.swift; sourceTree = "<group>"; };
 		0410AF2D2C2888170003F8A8 /* BackgroundMaterialsPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundMaterialsPractice.swift; sourceTree = "<group>"; };
@@ -131,6 +137,10 @@
 		048D67712BEF6B7E00FCE799 /* Initializer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Initializer.swift; sourceTree = "<group>"; };
 		048D67732BEF7DD100FCE799 /* ForEach.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEach.swift; sourceTree = "<group>"; };
 		048D67772BEFCD0000FCE799 /* MyScrollView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyScrollView.swift; sourceTree = "<group>"; };
+		04935ACA2C394ED400864A7F /* LongPressGesturePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPressGesturePractice.swift; sourceTree = "<group>"; };
+		04935ACC2C395C0600864A7F /* MagnificationGesturePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagnificationGesturePractice.swift; sourceTree = "<group>"; };
+		04935ACE2C39741100864A7F /* RotationGesturePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotationGesturePractice.swift; sourceTree = "<group>"; };
+		04935AD02C3978B200864A7F /* ScrollViewReaderPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewReaderPractice.swift; sourceTree = "<group>"; };
 		04A5BF8A2BF1FF0F00076C67 /* MyButtons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyButtons.swift; sourceTree = "<group>"; };
 		04A5BF8C2BF211A100076C67 /* StatePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatePractice.swift; sourceTree = "<group>"; };
 		04A5BF8E2BF2208900076C67 /* BindingPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingPractice.swift; sourceTree = "<group>"; };
@@ -263,6 +273,11 @@
 				042629592C357054009F45EA /* contentUnAvilableViewPractice.swift */,
 				0426295B2C3578DD009F45EA /* ControlGroupMenuPractice.swift */,
 				0426295D2C357F27009F45EA /* MacroPractice.swift */,
+				04935ACA2C394ED400864A7F /* LongPressGesturePractice.swift */,
+				04935ACC2C395C0600864A7F /* MagnificationGesturePractice.swift */,
+				04935ACE2C39741100864A7F /* RotationGesturePractice.swift */,
+				04935AD02C3978B200864A7F /* ScrollViewReaderPractice.swift */,
+				040A14D22C3AA0190087AB14 /* MultipleSheetsPractice.swift */,
 				04AF97E52BECEC7B00142F17 /* Assets.xcassets */,
 				04AF97E72BECEC7B00142F17 /* Preview Content */,
 			);
@@ -348,15 +363,18 @@
 			buildActionMask = 2147483647;
 			files = (
 				04AF97F02BECECA200142F17 /* shapes.swift in Sources */,
+				04935ACF2C39741100864A7F /* RotationGesturePractice.swift in Sources */,
 				04AF940D2BEE17BA00F7C9CA /* BackgroundAndOverlay#2.swift in Sources */,
 				041193A62C2ECD5F007BDD50 /* ListSwapActionPractice.swift in Sources */,
 				0426295E2C357F27009F45EA /* MacroPractice.swift in Sources */,
 				04778B5B2C31B0DF006FE23A /* ViewThatFitsPractice.swift in Sources */,
+				040A14D32C3AA0190087AB14 /* MultipleSheetsPractice.swift in Sources */,
 				04AF940F2BEE595000F7C9CA /* Stacks.swift in Sources */,
 				0458376A2BF10B1B00C32B7F /* LazyGrids.swift in Sources */,
 				04E4BE542C1C67C70034A06F /* TogglePractice.swift in Sources */,
 				041E10E52C22F69F002524B9 /* IfLetGuardPractice.swift in Sources */,
 				0464F2AE2BF3B3280085C29A /* Conditionals.swift in Sources */,
+				04935ACD2C395C0600864A7F /* MagnificationGesturePractice.swift in Sources */,
 				041193AE2C2EEBC2007BDD50 /* NavigationStackPractive.swift in Sources */,
 				04A6F9082BF4E54700EC8A96 /* AnimationTimingPractice.swift in Sources */,
 				047F693D2BED5F3200041D3C /* MyImage.swift in Sources */,
@@ -396,6 +414,7 @@
 				04350DA02C1AF0E5009526B7 /* TextFieldPractice.swift in Sources */,
 				04E4BE562C1C6ADB0034A06F /* PickerPractice.swift in Sources */,
 				041E10E92C231DED002524B9 /* ModelPractice.swift in Sources */,
+				04935ACB2C394ED400864A7F /* LongPressGesturePractice.swift in Sources */,
 				0426295C2C3578DD009F45EA /* ControlGroupMenuPractice.swift in Sources */,
 				04778B552C318F5D006FE23A /* MenuPractice.swift in Sources */,
 				048D67782BEFCD0000FCE799 /* MyScrollView.swift in Sources */,
@@ -417,6 +436,7 @@
 				042896E72BFCB0A0007FF20E /* alertPractice.swift in Sources */,
 				04AF97E22BECEC7A00142F17 /* SwiftBootcampApp.swift in Sources */,
 				04778B512C317E2E006FE23A /* GroupingPractice.swift in Sources */,
+				04935AD12C3978B200864A7F /* ScrollViewReaderPractice.swift in Sources */,
 				041B46992C21F23500662C04 /* TabViewPractice.swift in Sources */,
 				04778B592C31A547006FE23A /* AnylayoutPractice.swift in Sources */,
 			);
@@ -557,6 +577,7 @@
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UIStatusBarStyle = "";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -585,6 +606,7 @@
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UIStatusBarStyle = "";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (

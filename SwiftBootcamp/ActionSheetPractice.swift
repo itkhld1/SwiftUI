@@ -12,6 +12,9 @@ struct ActionSheetPractice: View {
     @State var showActionSheet: Bool = false
     @State var actionshetOption: ActionSheetOptions = .isOtherPost
     
+    @State var currentAmount: CGFloat = 0
+    @State var lastAmount: CGFloat = 0
+    
     enum ActionSheetOptions {
         case isMyPost
         case isOtherPost
@@ -62,9 +65,22 @@ struct ActionSheetPractice: View {
                     Image("itkhld")
                         .resizable()
                         .aspectRatio(contentMode: .fit)
+                        .scaleEffect(1 + currentAmount + lastAmount)
+                        .gesture(
+                            MagnificationGesture()
+                                .onChanged({ value in
+                                    currentAmount = value - 1
+                                })
+                                .onEnded({ value in
+                                    withAnimation(.spring) {
+                                        currentAmount = 0
+                                    }
+                                })
+                        )
                 }
-                .cornerRadius(4)
-                .padding(.horizontal,1)
+                
+                .cornerRadius(10)
+                .padding(.horizontal,4)
                 
                 
                 HStack(spacing: 20.0) {
