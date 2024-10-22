@@ -9,6 +9,7 @@ import SwiftUI
 
 struct ContextMenuPractice: View {
     var body: some View {
+        
         VStack(alignment: .leading, spacing: 20.0) {
             Image(systemName: "house.fill")
                 .font(.title)
