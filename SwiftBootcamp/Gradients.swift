@@ -9,6 +9,8 @@ import SwiftUI
 
 struct Gradients: View {
     var body: some View {
+        Text("SwiftUI")
+            .shadow(color: .purple, radius: 20)
         RoundedRectangle(cornerRadius: 25.0)
             .fill(
                 LinearGradient(
