@@ -17,10 +17,9 @@ struct PopoverPractice: View {
             Color.orange.ignoresSafeArea()
             
             VStack {
-                Button("Click") {
+                Button("Click me!") {
                     showNewScreen.toggle()
                 }
-                Spacer()
             }
             .sheet(isPresented: $showNewScreen, content: {
                 NewScreen()
