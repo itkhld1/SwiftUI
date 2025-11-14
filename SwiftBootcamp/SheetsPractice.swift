@@ -20,7 +20,7 @@ struct SheetsPractice: View {
             Button(action: {
                 sheetShow.toggle()
             }, label: {
-                Text("Button")
+                Text("Tab       ")
                     .foregroundColor(.green)
                     .font(.headline)
                     .padding()
