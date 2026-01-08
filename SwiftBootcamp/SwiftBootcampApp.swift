@@ -11,7 +11,10 @@ import SwiftUI
 struct SwiftBootcampApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            //ContentView()
+            //MagnificationGesturePractice()
+            //ActionSheetPractice()
+            RotationGesturePractice()
         }
     }
 }
